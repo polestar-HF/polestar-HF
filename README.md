@@ -2,6 +2,10 @@
 
 # Hi, this is Ram👋
 
+[![Github Stars](https://img.shields.io/badge/Github-2-blue)](https://github.com/polestar-HF)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polestar-HF&show_icons=true&theme=radical)
+
 </div>
 
 <!--
