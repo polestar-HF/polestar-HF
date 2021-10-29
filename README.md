@@ -10,7 +10,7 @@
 <p>
 
 ## Orientation⌨️
----
+
 ### I like code❤️
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
@@ -26,7 +26,7 @@
 <p>
 
 ## My Project🏳️‍🌈
----
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=polestar-HF&repo=Spider-project)](https://github.com/polestar-HF/Spider-project)
 
 
