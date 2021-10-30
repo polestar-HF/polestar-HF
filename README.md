@@ -16,6 +16,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-sceccess?logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-ff0000?logo=redis&logoColor=white)
 
 </p>
 
