@@ -30,6 +30,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=polestar-HF&show_icons=true&theme=flag-india)
 
+
+![Alt](https://repobeats.axiom.co/api/embed/2c3a7a7e01defa050794c5259a442706115b8a3a.svg "Repobeats analytics image")
 </p>
 
 <p>
